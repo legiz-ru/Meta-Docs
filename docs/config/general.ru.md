@@ -102,7 +102,7 @@ ipv6: true
 keep-alive-interval: 15
 ```
 
-Максимальное время бездействия TCP Keep Alive
+Максимальное время бездействия TCP Keep Alive в секундах
 
 ```{.yaml linenums="1"}
 keep-alive-idle: 15

@@ -1,3 +1,4 @@
 .vscode
 .idea/
 .tool-versions
+/site/
